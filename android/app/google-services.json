@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62063110725",
+    "project_id": "carrepair-182db",
+    "storage_bucket": "carrepair-182db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62063110725:android:82e1e3f33649007000112c",
+        "android_client_info": {
+          "package_name": "com.example.carrepair"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe4N5BafE08TQX5QbrcGwkxPb1EoSel1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
